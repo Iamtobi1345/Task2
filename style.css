@@ -5,7 +5,7 @@ width:100%;
 gap:10px;
 overflow:;}
 
-.cardpic img{height:300px;
+.cardpic img{height:270px;
 width:100%;
 transition:200ms transform ease-in-out;
 object-fit:fill;
@@ -25,7 +25,7 @@ font-size:15px;}
 
 .button1{background-color:#87CEFA;}
 
-.buttons{margin-top:10px;}
+.buttons{margin-top:px;}
 
 .page2{display:flex;
 margin-top:10px;
