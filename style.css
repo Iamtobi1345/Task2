@@ -5,7 +5,7 @@ width:100%;
 gap:10px;
 overflow:;}
 
-.cardpic img{height:270px;
+.cardpic img{height:300px;
 width:100%;
 transition:200ms transform ease-in-out;
 object-fit:fill;
