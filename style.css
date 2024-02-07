@@ -1,0 +1,41 @@
+.page{display:flex;
+display-direction:row;
+height:400px;
+width:420px;
+gap:30px;
+overflow:;}
+
+.cardpic img{height:200px;
+width:400px;
+object-fit:fill;
+overflow:hidd;}
+
+
+.card ,.card2{box-shadow: 0 0 5px 0 rgb(48,25,52,0.8);
+}
+
+.card-text{margin:10px;}
+
+button{border-radius:0px;
+height:50px;
+font-size:15px;}
+
+.button1{background-color:#87CEFA;}
+
+.buttons{margin-top:38px;}
+
+.page2{display:flex;
+margin-top:50px;
+display-direction:row;
+gap:30px;}
+
+.page2-card1{width:400px;
+height:220px;
+box-shadow: 0 0 5px 0 rgb(48,25,52,0.8);
+object-fit:fill;
+overflow:;}
+
+header{margin-top:20px;
+font-size:25px;}
+
+
